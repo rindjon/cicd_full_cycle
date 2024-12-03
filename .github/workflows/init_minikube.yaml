@@ -1,4 +1,4 @@
-name: Install Kind Cluster on EC2
+name: Install Kind Cluster on an EC2
 run-name: Install Kind on ${{ inputs.EC2_IP }}
 
 on:
